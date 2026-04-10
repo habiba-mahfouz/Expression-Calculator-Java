@@ -1,6 +1,8 @@
 # Expression Calculator (Java) 🧮
 
 A robust Java-based expression calculator that implements the **Shunting-yard algorithm** to convert infix expressions to postfix (Reverse Polish Notation) and evaluates them. This project demonstrates advanced data structure concepts by using a **custom generic Linked-List-based Stack** implementation.
+<img width="697" height="310" alt="console" src="https://github.com/user-attachments/assets/9ed66bed-c8f6-4f83-8b15-0bf1bdb7420f" />
+
 
 ## 🚀 Features
 
